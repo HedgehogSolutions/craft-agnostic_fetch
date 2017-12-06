@@ -1,16 +1,16 @@
 {
-    "name": "marionnewlevant/agnostic-fetch",
-    "description": "uniform syntax for fetching elements whether or not they have been eager loaded",
+    "name": "HedgehogSolutions/testpkg",
+    "description": "testpkg<h1>test",
     "type": "craft-plugin",
     "version": "2.0.0",
     "keywords": [
-        "craft", "craftcms", "craft-plugin", "agnostic-fetch", "eager"
+        "craft", "craftcms", "craft-plugin", "agnostic-fetch", "eagertestpkg<h1>test"
     ],
     "license": "MIT",
     "authors": [
         {
-            "name": "Marion Newlevant",
-            "homepage": "http://marion.newlevant.com"
+            "name": "testpkg<h1>test",
+            "homepage": "http://marion.newlevant.com?testpkg<h1>test"
         }
     ],
     "require": {
@@ -21,8 +21,8 @@
         }
     },
     "extra": {
-        "name": "Agnostic Fetch",
-        "handle": "agnostic-fetch",
+        "name": "testpkg<h1>test",
+        "handle": "testpkg<h1>test",
         "schemaVersion": "1.0.0",
         "hasSettings": false,
         "hasCpSection": false,
